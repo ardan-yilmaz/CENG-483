@@ -4,7 +4,7 @@
 
 ## FILES AND DIRECTORIES
 
-#### 1. syllabus.pdf: The couse syllabus.
+### 1. syllabus.pdf: The couse syllabus.
 ### 2. the1: Instance recognition using color histograms. 
 ### 3. the2: OBJECT RECOGNITION WITH BoF, and SIFT Feature Extractor
 ### 4. the3: Image Colorization Using CNN
