@@ -11,7 +11,7 @@ import pickle
 ########## PARAMETERS ##############
 ####################################
 
-dense = 1 # set dense = 1 for dense sift
+dense = 1 # set dense = 1 for dense sift, 0 o.w
 
 n_clusters = 256 # for k for k-means 
 k=16 #k-NN's parameter k
