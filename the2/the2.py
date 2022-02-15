@@ -11,9 +11,9 @@ import pickle
 ########## PARAMETERS ##############
 ####################################
 
-dense = 1 # set dense = 1 for dense sift, 0 o.w
+dense = 1 # set dense = 1 for dense sift, dense = 0 o.w
 
-n_clusters = 256 # for k for k-means 
+n_clusters = 256 #k for k-means 
 k=16 #k-NN's parameter k
 
 ## SIFT PARAMETERS
@@ -51,10 +51,10 @@ train_hist_file = "train_means_256_clusters_sift"
 
 
 #GLOBAL VARS
-train_features = dict() 	# <img_name> : <descriptor>
-train_histograms = dict() # <img_name> : <histogram> 
-test_features = dict() 	# <img_name> : <descriptor>
-test_histograms = dict() # <img_name> : <histogram> 
+train_features = dict() 	# {<img_name> : <descriptor>}
+train_histograms = dict() # {<img_name> : <histogram>}
+test_features = dict() 	# {<img_name> : <descriptor>}
+test_histograms = dict() # {<img_name> : <histogram>}
 all_descriptors = []
 kmeans = None
 
