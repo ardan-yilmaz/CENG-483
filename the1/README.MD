@@ -1,5 +1,5 @@
 ## Introduction to Computer Vision - Take Home Exam 1
-
+## Instance Recognition with Color Histograms
 ### FILES
 1. the1_task.pdf: Contains the homework text, the details of the required solution can be found here.
 2. the1.py: Implements a histogram-based image classifier whose details are explained in the the1_task.pdf file.
