@@ -7,4 +7,4 @@
 4. sample_data.zip: Contains the dataset for query and support images. 
 
 ### Usage
-Cloning the repository, and unzipping the data samples, one can directly run the1.py script. The hyperparameters discussed in the report can be tested by changing the relative lines in the script under main. The comments should guide.
+Cloning the repository, and unzipping the data samples, one can directly run the1.py script. The hyperparameters discussed in the report can be tested by changing the relative lines in the script under main. The comments in the script should guide.
