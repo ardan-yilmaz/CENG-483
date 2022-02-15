@@ -1,5 +1,7 @@
 ## Introduction to Computer Vision - Take Home Exam 2
 
+## OBJECT RECOGNITION WITH BoF, and SIFT Feature Extractor
+
 ### FILES
 1. the2.pdf: Contains the homework text, the details of the required text can be found here.
 2. the2.py: Implements an algorithm to solve the object recognition problem using BoF (Bag of Features), SIFT, and k-NN, whose details are given in the homework text, ie, the2.py.
