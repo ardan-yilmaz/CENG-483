@@ -10,6 +10,6 @@
 
 ### Usage
 
-Cloning the repository, one can run the2.py script, changing the parameters for SIFT and Dense-SIFT, the number of neighbors for k-NN, and the number of clusters for k-means clustering. the2_data.zip contains the train, validation, and test data set, and one can use these directly by unzipping the file. Also, different datasets can be used, whose paths are given in the the2.py script between lines 29-32.
+Cloning the repository, one can run the2.py script with the option of changing the parameters for SIFT and Dense-SIFT, the number of neighbors for k-NN, and the number of clusters for k-means clustering. The default configuration is dense sift with nfeatures = 0, nOctaveLayers = 3, contrastThreshold = 0.04, edgeThreshold = 10, sigma = 1.6, step_size = 5, n_clusters = 256, and k=16 (For k nearest neighbors). the2_data.zip contains the train, validation, and test data set, and one can use these directly by unzipping the file. Also, different datasets can be used, whose paths are given in the the2.py script between lines 29-32.
 
 
