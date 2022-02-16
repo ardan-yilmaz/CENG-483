@@ -6,7 +6,7 @@
 
 ### 1. syllabus.pdf: The couse syllabus.
 ### 2. the1: Instance recognition using color histograms. 
-### 3. the2: Object Recognition WITH BoF, and SIFT Feature Extractor
+### 3. the2: Object Recognition with BoF (Bag of Features), SIFT Feature Extractor, k-means, and k-NN
 ### 4. the3: Image Colorization Using CNN
 
 The details can be found under relative directories.
