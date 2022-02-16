@@ -1,6 +1,6 @@
 # CENG483: Introduction to Computer Vision
 
-### ALL HOMEWORKS GIVEN FOR THE COURSE CENG483: Introduction to Computer Vision IN 2021-2022 FALL at METU.
+### ALL HOMEWORKS GIVEN FOR THE COURSE CENG483: Introduction to Computer Vision in 2021-2022 FALL semester at METU.
 
 ## FILES AND DIRECTORIES
 
